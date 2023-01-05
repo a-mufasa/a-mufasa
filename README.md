@@ -86,7 +86,7 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mitchell's streak" src="https://streak-stats.demolab.com/?user=a-mufasa&theme=dark"/>
+    <img src="https://streak-stats.demolab.com/?user=a-mufasa&theme=dark"/>
 </p>
 <p align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=a-mufasa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
