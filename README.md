@@ -20,7 +20,7 @@
 ## 🕵️‍♂️ &nbsp;About Me
 
 ⚙ &nbsp;Exploring software and techonolgy to find solutions to new problems.\
-🎓 &nbsp;I'm currently studying Computer Science with minors in Mathematics and Data Analytics at University of Arkansas.\
+🎓 &nbsp;I'm currently studying Computer Science and getting minors in Mathematics and Data Analytics at University of Arkansas.\
 💼 &nbsp;I'm currently working as a Software Development Engineer at SupplyPike.\
 🌱 &nbsp;I enjoy learning more about Artificial Intelligence and Web Development.\
 ✉️ &nbsp;Feel free to shoot me an email at ahmedr.moustafa@gmail.com.
