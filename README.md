@@ -85,9 +85,7 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
-    <img src="https://streak-stats.demolab.com/?user=a-mufasa&theme=dark"/>
-</p>
+
 <p align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=a-mufasa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 &nbsp;&nbsp;
