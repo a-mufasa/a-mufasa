@@ -48,6 +48,7 @@
 ### 🧰 Frameworks and libraries
 <p>
   <a><img src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"/></a>
+  <a><img src="https://img.shields.io/badge/Vite-bb34fe.svg?logo=vite&logoColor=gold"/></a>
   <a><img src="https://img.shields.io/badge/NumPy-013243.svg?logo=numpy&logoColor=white"/></a>
   <a><img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"/></a>
   <a><img src="https://img.shields.io/badge/Flutter-%2302569B.svg?logo=Flutter&logoColor=white"/></a>
