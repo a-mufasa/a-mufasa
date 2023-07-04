@@ -17,7 +17,7 @@
   </a>
  </p>
 
-## 🕵️‍♂️ &nbsp; About Me
+## 🕵️‍♂️ About Me
 
 ⚙ &nbsp;Exploring software and techonolgy to find solutions to new problems.\
 🎓 &nbsp;I graduated from University of Arkansas in 2023 with a BS in Computer Science and Minors in Mathematics and Data Analytics.\
@@ -25,7 +25,7 @@
 🌱 &nbsp;I enjoy learning more about Artificial Intelligence and Web Development.\
 ✉️ &nbsp;Feel free to shoot me an email at ahmedr.moustafa@gmail.com.
 
-## 🛠 &nbsp;Tech Stack
+## 🛠 Tech Stack
 
 ### 👨‍💻 Programming languages
 <p>
@@ -84,7 +84,7 @@
   <a><img src="https://img.shields.io/badge/Amazon S3-438a25?logo=amazons3&logoColor=white"/></a>
 </p>
 
-## ⚙️ &nbsp;GitHub Analytics
+## ⚙️ GitHub Analytics
 
 <p align="center">
     <img src="https://streak-stats.demolab.com/?user=a-mufasa&theme=dark"/>
@@ -95,7 +95,7 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=a-mufasa&layout=compact&langs_count=8&theme=dark"/>
 </p>
 
-## 🤝🏻 &nbsp;Connect with Me
+## 🤝🏻 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ahmed-r-moustafa/"><img src="https://img.shields.io/badge/-Ahmed%20Moustafa-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
