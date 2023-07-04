@@ -17,7 +17,7 @@
   </a>
  </p>
 
-## 🕵️‍♂️ &nbsp;About Me
+## 🕵️‍♂️ &nbsp; About Me
 
 ⚙ &nbsp;Exploring software and techonolgy to find solutions to new problems.\
 🎓 &nbsp;I graduated from University of Arkansas in 2023 with a BS in Computer Science and Minors in Mathematics and Data Analytics.\
