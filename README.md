@@ -17,7 +17,7 @@
   </a>
  </p>
 
-## :smiley: &nbsp;About Me
+<h2>:smiley: &nbsp;About Me</h2>
 
 ⚙ &nbsp;Exploring software and technology to find solutions to new problems.\
 🎓 &nbsp;I graduated from University of Arkansas in 2023 with a BS in Computer Science and Minors in Mathematics and Data Analytics.\
@@ -25,9 +25,9 @@
 🌱 &nbsp;I enjoy learning more about Artificial Intelligence and Web Development.\
 ✉️ &nbsp;Feel free to shoot me an email at ahmedr.moustafa@gmail.com.
 
-## 🛠 &nbsp;Tech Stack
+<h2>🛠 &nbsp;Tech Stack</h2>
 
-### 👨‍💻 Programming languages
+<h3>👨‍💻 Programming languages</h3>
 <p>
   <a><img src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"/></a>
   <a><img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white"/></a>
@@ -45,7 +45,7 @@
   <a><img src="https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white"/></a>
 </p>
   
-### 🧰 Frameworks and libraries
+<h3>🧰 Frameworks and libraries</h3>
 <p>
   <a><img src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"/></a>
   <a><img src="https://img.shields.io/badge/Vite-bb34fe.svg?logo=vite&logoColor=gold"/></a>
@@ -65,7 +65,7 @@
   <a><img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?logo=TensorFlow&logoColor=white"/></a>
 </p>
 
-### 💻 Software and tools
+<h3>💻 Software and tools</h3>
 <p>
   <a><img src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"/></a>
   <a><img src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"/></a>
@@ -84,7 +84,7 @@
   <a><img src="https://img.shields.io/badge/Amazon S3-438a25?logo=amazons3&logoColor=white"/></a>
 </p>
 
-## ⚙️ &nbsp;GitHub Analytics
+<h2>⚙️ &nbsp;GitHub Analytics</h2>
 
 <p align="center">
     <img src="https://streak-stats.demolab.com/?user=a-mufasa&theme=dark"/>
@@ -95,7 +95,7 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=a-mufasa&layout=compact&langs_count=8&theme=dark"/>
 </p>
 
-## 🤝🏻 &nbsp;Connect with Me
+<h2>🤝🏻 &nbsp;Connect with Me</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ahmed-r-moustafa/"><img src="https://img.shields.io/badge/-Ahmed%20Moustafa-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
