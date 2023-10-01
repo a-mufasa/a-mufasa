@@ -41,7 +41,6 @@
     <a><img src="https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX&logoColor=white" /></a>
     <a><img src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white" /></a>
     <a><img src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white" /></a>
-    <a><img src="https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white" /></a>
 </p>
 
 <h3>🧰 Frameworks and libraries</h3>
