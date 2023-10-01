@@ -50,7 +50,6 @@
     <a><img src="https://img.shields.io/badge/NumPy-013243.svg?logo=numpy&logoColor=white" /></a>
     <a><img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white" /></a>
     <a><img src="https://img.shields.io/badge/Flutter-%2302569B.svg?logo=Flutter&logoColor=white" /></a>
-    <a><img src="https://img.shields.io/badge/jQuery-%230769AD.svg?logo=jquery&logoColor=white" /></a>
     <a><img src="https://img.shields.io/badge/MUI-%230081CB.svg?logo=mui&logoColor=white" /></a>
     <a><img src="https://img.shields.io/badge/ROS-%230A0FF9.svg?logo=ros&logoColor=white" /></a>
     <a><img src="https://img.shields.io/badge/Redux-%23593d88.svg?logo=redux&logoColor=white" /></a>
