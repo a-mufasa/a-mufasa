@@ -59,8 +59,8 @@
     <a><img src="https://img.shields.io/badge/Pandas-%23150458.svg?logo=pandas&logoColor=white" /></a>
     <a><img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?logo=scikit-learn&logoColor=white" /></a>
     <a><img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?logo=TensorFlow&logoColor=white" /></a>
-</p>
     <a><img src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white" /></a>
+</p>
     
 
 <h3>💻 Software and tools</h3>
