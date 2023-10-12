@@ -39,7 +39,6 @@
     <a><img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black" /></a>
     <a><img src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white" /></a>
     <a><img src="https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX&logoColor=white" /></a>
-    <a><img src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white" /></a>
     <a><img src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white" /></a>
 </p>
 
@@ -61,6 +60,8 @@
     <a><img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?logo=scikit-learn&logoColor=white" /></a>
     <a><img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?logo=TensorFlow&logoColor=white" /></a>
 </p>
+    <a><img src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white" /></a>
+    
 
 <h3>💻 Software and tools</h3>
 <p>
