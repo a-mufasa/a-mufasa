@@ -98,5 +98,7 @@
 <p align="center">
     <a href="https://www.linkedin.com/in/ahmed-r-moustafa/"><img src="https://img.shields.io/badge/-Ahmed%20Moustafa-0077B5?style=flat&logo=Linkedin&logoColor=white" /></a>
     &nbsp;&nbsp;
+    <a href="mailto:ahmedr.moustafa@gmail.com"><img src="https://img.shields.io/badge/-ahmedr.moustafa@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+    &nbsp;&nbsp;
     <a href="https://www.instagram.com/_kingtut/"><img src="https://img.shields.io/badge/-@_kingtut-E4405F?style=flat&logo=Instagram&logoColor=white" /></a>
 </p>
