@@ -29,7 +29,6 @@
 <h3>👨‍💻 Programming languages</h3>
 <p>
     <a><img src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white" /></a>
-    <a><img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white" /></a>
     <a><img src="https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54" /></a>
     <a><img src="https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white" /></a>
     <a><img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?logo=typescript&logoColor=white" /></a>
@@ -39,7 +38,6 @@
     <a><img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black" /></a>
     <a><img src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white" /></a>
     <a><img src="https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX&logoColor=white" /></a>
-    <a><img src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white" /></a>
 </p>
 
 <h3>🧰 Frameworks and libraries</h3>
@@ -47,10 +45,7 @@
     <a><img src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB" /></a>
     <a><img src="https://img.shields.io/badge/Vite-bb34fe.svg?logo=vite&logoColor=gold" /></a>
     <a><img src="https://img.shields.io/badge/NumPy-013243.svg?logo=numpy&logoColor=white" /></a>
-    <a><img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white" /></a>
     <a><img src="https://img.shields.io/badge/Flutter-%2302569B.svg?logo=Flutter&logoColor=white" /></a>
-    <a><img src="https://img.shields.io/badge/MUI-%230081CB.svg?logo=mui&logoColor=white" /></a>
-    <a><img src="https://img.shields.io/badge/ROS-%230A0FF9.svg?logo=ros&logoColor=white" /></a>
     <a><img src="https://img.shields.io/badge/Redux-%23593d88.svg?logo=redux&logoColor=white" /></a>
     <a><img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white" /></a>
     <a><img src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white" /></a>
@@ -65,16 +60,13 @@
 
 <h3>💻 Software and tools</h3>
 <p>
-    <a><img src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white" /></a>
     <a><img src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white" /></a>
     <a><img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" /></a>
-    <a><img src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white" /></a>
     <a><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white" /></a>
     <a><img src="https://img.shields.io/badge/Docker-%230db7ed.svg?logo=docker&logoColor=white" /></a>
     <a><img src="https://img.shields.io/badge/ESLint-4B3263?logo=eslint&logoColor=white" /></a>
     <a><img src="https://img.shields.io/badge/Kubernetes-%23326ce5.svg?logo=kubernetes&logoColor=white" /></a>
     <a><img src="https://img.shields.io/badge/Jira-%230A0FFF.svg?logo=jira&logoColor=white" /></a>
-    <a><img src="https://img.shields.io/badge/Trello-%23026AA7.svg?logo=Trello&logoColor=white" /></a>
     <a><img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" /></a>
     <a><img src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white" /></a>
     <a><img src="https://img.shields.io/badge/Sentry-362F5E?logo=sentry&logoColor=white" /></a>
