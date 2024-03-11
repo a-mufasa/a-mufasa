@@ -7,10 +7,6 @@
         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/a-mufasa?color=55960c&style=for-the-badge&labelColor=488207&logo=star" />
     </a>
     &nbsp;&nbsp;
-    <a>
-        <img alt="profile views" title="Profile views" src="https://komarev.com/ghpvc/?username=a-mufasa&style=for-the-badge&color=red" />
-    </a>
-    &nbsp;&nbsp;
     <a href="https://github.com/a-mufasa?tab=followers">
         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/a-mufasa?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white" />
     </a>
